@@ -24,5 +24,5 @@ Ahmed is a high school junior who scored a 35 on the ACT and a 1590 on the SAT. 
 <figure class="half">
     <a href="https://github.com/36ACT/MyPicture/blob/master/ahmedscore.jpg?raw=true"><img src="https://github.com/36ACT/MyPicture/blob/master/ahmedscore.jpg?raw=true"></a>
     <a href="https://github.com/36ACT/MyPicture/blob/master/AhmedSAT.png?raw=true"><img src="https://github.com/36ACT/MyPicture/blob/master/AhmedSAT.png?raw=true"></a>
-    <figcaption>Screenshots of Ahmed and Matthew's ACT scores</figcaption>
+    <figcaption>Screenshots of Ahmed's scores</figcaption>
 </figure>

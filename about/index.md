@@ -11,9 +11,9 @@ comments: false
 ## Features of Genuine Prep
 * Completely free
 * No ads
-* High quality posts that truly teach the content on the tests
+* High quality posts
 * Discord chat for real-time answers
-* Run by 99th percentile scorers
+* Curated by 99th-percentile scorers
 
 ## Who We Are
 

@@ -1,35 +1,41 @@
 ---
 layout: page
-title: About Us
+title: About
 tags: [about]
-date: 2016-03-21
+date: 2018-05-01
 comments: false
 ---
+    
+<center>Genuine Prep was created by Ahmed and run in collaboration with Matthew. Both are high school juniors with exceptional ACT and SAT scores. While preparing for these standardized tests, Ahmed and Matthew were frustrated by the expensive classes, mediocre teaching, and low-quality materials that made studying for the tests overly difficult. By creating this free site, Ahmed and Matthew hope to aid future test-takers in avoiding these difficulties.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Features of Genuine Prep
+* Completely free
+* No ads
+* High quality posts that truly teach the content on the tests
+* Discord chat for real-time answers
+* Run by 99th percentile scorers
 
-## Preview
+## Who We Are
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+_Ahmed_
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+Ahmed is a high school junior who scored a 35 on the ACT and a 1590 on the SAT. He has an unweighted GPA of 4.0. He works as an English and Writing tutor at a local community college and is working towards a degree in Computer Science through dual enrollment.
 
-## Getting Started
+_Matthew_
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+Matthew is a high school junior who earned a perfect score of 36 on the ACT as well as a 1570 on the SAT. He has an unweighted GPA of 4.0. He is working towards a degree in General Math and Science through dual enrollment.
+
+<figure class="half">
+    <a href="https://github.com/36ACT/MyPicture/blob/master/ahmedscore.jpg?raw=true"><img src="https://github.com/36ACT/MyPicture/blob/master/ahmedscore.jpg?raw=true"></a>
+    <a href="https://github.com/36ACT/MyPicture/blob/master/mattscore.jpg?raw=true"><img src="https://github.com/36ACT/MyPicture/blob/master/mattscore.jpg?raw=true"></a>
+    <figcaption>Screenshots of Ahmed and Matthew's ACT scores</figcaption>
+</figure>
+
+<figure class="half">
+    <a href="https://github.com/36ACT/MyPicture/blob/master/AhmedSAT.png?raw=true"><img src="https://github.com/36ACT/MyPicture/blob/master/AhmedSAT.png?raw=true"></a>
+    <a href="https://github.com/36ACT/MyPicture/blob/master/AhmedSAT.png?raw=true"><img src="https://github.com/36ACT/MyPicture/blob/master/AhmedSAT.png?raw=true"></a>
+    <figcaption>Ahmed and Matthew's SAT scores</figcaption>
+</figure>
+
+
+

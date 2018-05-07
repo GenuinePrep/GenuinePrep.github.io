@@ -22,7 +22,7 @@ _Ahmed_
 Ahmed is a high school junior who scored a 35 on the ACT and a 1590 on the SAT. He also has an unweighted GPA of 4.0. Ahmed works as an English and Writing tutor at a local community college and is working towards a degree in Computer Science through dual enrollment.
 
 <figure class="half">
-    <a href="https://github.com/36ACT/MyPicture/blob/master/ahmedsat.png?raw=true"><img src="https://github.com/36ACT/MyPicture/blob/master/ahmedsat.png?raw=true"></a>
-    <a href="https://github.com/36ACT/MyPicture/blob/master/AhmedScore.jpg?raw=true"><img src="https://github.com/36ACT/MyPicture/blob/master/AhmedScore.jpg?raw=true"></a>
+    <a href="https://github.com/36ACT/MyPicture/blob/master/ahmedscore.jpg?raw=true"><img src="https://github.com/36ACT/MyPicture/blob/master/ahmedscore.jpg?raw=true"></a>
+    <a href="https://github.com/36ACT/MyPicture/blob/master/AhmedSAT.png?raw=true"><img src="https://github.com/36ACT/MyPicture/blob/master/AhmedSAT.png?raw=true"></a>
     <figcaption>Screenshots of Ahmed's scores</figcaption>
 </figure>

@@ -6,13 +6,13 @@ date: 2018-05-01
 comments: false
 ---
     
-<center>Genuine Prep is run solely by Ahmed, a high school junior. While preparing for the ACT and SAT, Ahmed was frustrated by the expensive classes, mediocre teaching, and low-quality materials that made studying for the tests far too difficult. By creating this free site, Ahmed hopes to aid future test-takers in avoiding these difficulties.</center>
+<center>Genuine Prep is run by Ahmed, a high school junior. While preparing for standardized tests, Ahmed was frustrated by the expensive classes, mediocre teaching, and low-quality materials that made studying for the tests far too difficult. By creating this free site, Ahmed hopes to aid future test-takers in avoiding these difficulties.</center>
 
 ## Features of Genuine Prep
 * Completely free
 * No ads
 * High quality posts
-* Discord chat for real-time answers
+* Discord chat for real-time answers to your test questions
 * Curated by Ahmed, 99th-percentile scorer in the ACT and SAT
 
 ## Who We Are

@@ -24,7 +24,7 @@ Periodicals:\
 Suggested Fiction Authors:\
 Jane Austen, Charles Dickens, George Orwell, Toni Morrison
 
-Historical Documents:
+Historical Documents:\
 http://www.ushistory.org/documents
 
 ## General Theme Questions

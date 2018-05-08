@@ -19,7 +19,7 @@ Periodicals:\
 <a href="https://www.nytimes.com/section/opinion">The New York Times op-ed section</a>\
 <a href="https://www.wsj.com/">The Wall Street Journal</a>\
 <a href="https://hbr.org/">Harvard Business Review</a>\
-<a href="https://www.scientificamerican.com/">Scientific American</a>\
+<a href="https://www.scientificamerican.com/">Scientific American</a>
 
 Suggested Fiction Authors:\
 Jane Austen, Charles Dickens, George Orwell, Toni Morrison

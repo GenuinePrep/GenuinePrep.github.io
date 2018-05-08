@@ -21,7 +21,7 @@ Periodicals:\
 <a href="https://hbr.org/">Harvard Business Review</a>\
 <a href="https://www.scientificamerican.com/">Scientific American</a>
 
-Suggested Fiction Authors:
+Suggested Fiction Authors\:
 Jane Austen, Charles Dickens, George Orwell, Toni Morrison
 
 Historical Documents:

@@ -11,7 +11,7 @@ comments: true
 
 Hello everybody. Today I'll try to go over some general tips for preparing for the reading portion of the SAT. I will try to go through the types of reading questions on the SAT and give strategies to solve each. Make sure to comment, email, or message on Discord if there is anything you would like to recommend me to add to this post.
 
-## Reading the Passage
+### Reading the Passage
 This is without a doubt an extremely important part of taking the reading test. If you can't comprehend the passage, you simply won't be able to answer the questions well.
 Understanding advanced writing is not something that can easily be taught. It is a skill that is attained through lots of practice. If you feel that you are missing points on the reading portion because you are misunderstanding parts of the passages, I highly recommend that you begin reading from these sources on a regular basis. They are the ones that Erica L. Meltzer, the very well-known author of The Critical Reader, recommends.
 
@@ -26,6 +26,21 @@ Jane Austen, Charles Dickens, George Orwell, Toni Morrison
 
 Historical Documents:\
 http://www.ushistory.org/documents
+
+### Every Answer is Uncontestably Correct
+The College Board would never publish a test unless they were 100% sure that the answers to each of their questions is undoubtedly correct. How do they do this? By making the three incorrect options undoubtedly wrong. **Each wrong answer can be proven to be incorrect.** The reasons for incorrectness often fall into one of these categories, according to Erica L. Meltzer:
+
+* Off-topic, not related to passage
+* Too broad
+* Too extreme. For example, if the passage is written fairly neutrally, but the answer is overly positive or negative
+* One part of the answer is correct, but the other half is wrong
+* Is conjecture (could be true but not enough information to prove it)
+* True for entire passage but not the line the question is focusing on
+* Factually true, but not mentioned in the passage
+
+### Line References
+Many questions on the SAT will ask you to pick a line that supports the answer you gave in a previous question. Lets call the original question #1 and the question that asks for evidence for your previous answer #2. If you are having difficulty find the answer to #1, **read all the lines that are mentioned in the answer options for #2. One of those lines will give you the answer to #1! Now you will have answers to both #1 and #2.** 
+
 
 ## General Theme Questions
 These questions will essentially ask you to sum up a passage as a whole, and are worded like "Which choice best summarizes this passage?","Which choice describes a major theme of this passage?", or something to that effect. 

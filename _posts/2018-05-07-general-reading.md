@@ -27,4 +27,10 @@ Jane Austen, Charles Dickens, George Orwell, Toni Morrison
 Historical Documents:\
 http://www.ushistory.org/documents
 
+## General Theme Questions
+These questions will essentially ask you to sum up a passage as a whole, and are worded like "Which choice best summarizes this passage?","Which choice describes a major theme of this passage?", or something to that effect. 
+To answer, I try to make a quick summary in my head and pick the answer that best fits the summary I have made. Take for example question one on <a href="https://collegereadiness.collegeboard.org/pdf/sat-practice-test-7.pdf">SAT Practice Test #7</a> question #1. Read the passage and try to sum it up in a short sentence or two before picking an answer. For me, I summed up the passage as "guy who's obsessed with money gets a life thanks to a little girl." 
+This may sound somehwat silly, but it summarizes the entire passage quite well. Now when I go to look at the answer choices, I can instantly rule out C because "childhood naïveté" is not discussed in the passage. B is also easily ruled out because the passage does not discuss the morality of children to any degree. Thus, we are left with two questions. I can rule out A because although Silas' materialistic nature is discussed, the idea of the passage is not Silas' greed itself, but how his daughter helps him understand that money is not all there is to life. I pick D because it is the only one that discusses Silas' relationship with Eppie, which is what the passage itself does.
+
+## If something in this post is unclear or if I have made any mistakes in writing this post, please contact me
 ## NOTE: This post is a work in progress. I plan on adding much more content soon. For tonight, this is what I've got.

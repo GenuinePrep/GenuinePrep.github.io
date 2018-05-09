@@ -50,7 +50,7 @@ The College Board would never publish a test unless they were 100% sure that the
 * Factually true, but not mentioned in the passage
 
 ### Line References
-Many questions on the SAT will ask you to pick a line that supports the answer you gave in a previous question. Lets call the original question #1 and the question that asks for evidence for your previous answer #2. If you are having difficulty find the answer to #1, **read all the lines that are mentioned in the answer options for #2. One of those lines will give you the answer to #1! Now you will have answers to both #1 and #2.** 
+Many questions on the SAT reading will ask you to pick a line that supports the answer you gave in a previous question. Lets call the original question #1 and the question that asks for evidence for your previous answer #2. If you are having difficulty finding the answer to #1, **read all the lines that are mentioned in the answer options for #2. The answer to #1 can be found in the lines for one of the answer options in #2! Once you determine the correct answer, you will have answers to both #1 and #2.** 
 
 
 ### General Theme Questions

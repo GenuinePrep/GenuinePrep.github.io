@@ -2,7 +2,7 @@
 layout: post
 title:  "General Tips for SAT Reading"
 date:   2018-05-07
-excerpt: ""
+excerpt: "Simple strategies to raise your score"
 tag:
 - sat
 - reading
@@ -10,6 +10,8 @@ comments: true
 ---
 
 Hello everybody. Today I'll try to go over some general tips for preparing for the reading portion of the SAT. I will try to go through the types of reading questions on the SAT and give strategies to solve each. Make sure to comment, email, or message on Discord if there is anything you would like to recommend me to add to this post.
+
+-Ahmed
 
 ### Reading the Passage
 This is without a doubt an extremely important part of taking the reading test. If you can't comprehend the passage, you simply won't be able to answer the questions well.

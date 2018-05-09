@@ -17,7 +17,7 @@ Hello everybody. Today I'll try to go over some general tips for preparing for t
 This is without a doubt an extremely important part of taking the reading test. If you can't comprehend the passage, you simply won't be able to answer the questions well.
 Understanding advanced writing is not something that can easily be taught. It is a skill that is attained through lots of practice. If you feel that you are missing points on the reading portion because you are misunderstanding parts of the passages, I highly recommend that you begin reading from these sources on a regular basis. They are the ones that Erica L. Meltzer, the very well-known author of The Critical Reader, recommends.
 
-Periodicals:
+**Periodicals:**
 
 <a href="https://www.nytimes.com/section/opinion">The New York Times op-ed section</a>
 
@@ -28,12 +28,12 @@ Periodicals:
 <a href="https://www.scientificamerican.com/">Scientific American</a>
 <br>
 
-Fiction Authors:
+**Fiction Authors:**
 
 Jane Austen, Charles Dickens, George Orwell, Toni Morrison
 <br>
 
-Historical Documents:
+**Historical Documents:**
 
 <a href="http://www.ushistory.org/documents">USHistory.org documents</a>
 <br>

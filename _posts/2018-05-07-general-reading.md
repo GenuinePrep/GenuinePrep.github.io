@@ -28,7 +28,7 @@ Periodicals:
 <a href="https://www.scientificamerican.com/">Scientific American</a>
 <br>
 
-Suggested Fiction Authors:
+Fiction Authors:
 
 Jane Austen, Charles Dickens, George Orwell, Toni Morrison
 <br>

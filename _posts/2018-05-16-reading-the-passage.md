@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Comprehension"
-date:   2018-05-07
+date:   2018-05-16
 excerpt: "Attaining a better understanding of the passages"
 tag:
 - sat

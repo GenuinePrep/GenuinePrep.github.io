@@ -13,17 +13,17 @@ comments: false
 * No ads
 * High quality posts
 * Discord chat for real-time answers to your test questions
-* Curated by Ahmed, 99th-percentile scorer in the ACT and SAT
+* Curated by Ahmed and Matthew, 99th-percentile scorers on the ACT and SAT
 
 ## Who We Are
 
 _Ahmed_
 
-Ahmed is a high school junior who scored a 35 on the ACT and a 1590 on the SAT. He also has an unweighted GPA of 4.0 in both high school and college. Ahmed works as an English and Writing tutor at a local community college and is working towards a degree in Computer Science through dual enrollment.
+Ahmed is a high school junior who scored a 35 on the ACT and a 1590 on the SAT. He also has an unweighted GPA of 4.0 in both high school and the community college he is dual-enrolled in. Ahmed works as an English and Writing tutor at a local community college and is working towards a degree in Computer Science through dual enrollment.
 
 _Matthew_
 
-Matthew is a high school junior who scored a 36 on the ACT and a 1570 on the SAT. He also has an unweighted GPA of 4.0. Matthew is working towards a degree in General Math and Science through dual enrollment.
+Matthew is a high school junior who scored a 36 on the ACT and a 1570 on the SAT. He also has an unweighted GPA of 4.0. Matthew is working towards a degree in General Math and Science through dual enrollment at a community college.
 
 <figure class="half">
     <a href="https://github.com/36ACT/MyPicture/blob/master/ahmedscore.jpg?raw=true"><img src="https://github.com/36ACT/MyPicture/blob/master/ahmedscore.jpg?raw=true"></a>

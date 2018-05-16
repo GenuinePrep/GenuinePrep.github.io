@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "The Correct Reading Answer is Uncontestable"
+title: "The Correct SAT Reading Answer is Uncontestable"
 date: 2018-05-16
-excerpt: "Correct without a doubt"
+excerpt: ""
 tag: 
 - sat
 - reading

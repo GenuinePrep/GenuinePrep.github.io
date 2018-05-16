@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Types of Questions on the SAT"
-date: 2018-05-16
-excerpt: ""
+title:  "Types of Questions on the SAT Reading"
+date:   2018-05-16
+excerpt: "Tips for each!"
 tag:
-- sat
-- reading
+- SAT
+- Reading
 comments: true
 ---
 

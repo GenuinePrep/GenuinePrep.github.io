@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Comprehension"
+title:  "SAT Reading Comprehension"
 date:   2018-05-16
 excerpt: "Attaining a better understanding of the passages"
 tag:

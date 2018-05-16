@@ -3,7 +3,7 @@ layout: post
 title: "Uncontestable"
 date: 2018-05-16
 excerpt: "Correct without a doubt"
-tags: 
+tag: 
 - sat
 - reading
 comments: true

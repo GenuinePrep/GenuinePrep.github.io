@@ -31,6 +31,6 @@ Matthew is a high school junior who scored a 36 on the ACT and a 1570 on the SAT
     <figcaption>Screenshots of Ahmed's scores</figcaption>
 </figure>
 <figure>
-    <a href="github.com/36ACT/MyPicture/blob/master/mattscore.jpg?raw=true"><img src="github.com/36ACT/MyPicture/blob/master/mattscore.jpg?raw=true"></a>
+    <a href="https://github.com/36ACT/MyPicture/blob/master/mattscore.jpg?raw=true"><img src="https://github.com/36ACT/MyPicture/blob/master/mattscore.jpg?raw=true"></a>
     <figcaption>Proof of Matthew's SAT score coming soon.</figcaption>
     </figure>

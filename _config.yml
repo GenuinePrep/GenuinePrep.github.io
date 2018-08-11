@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   genuineprep
+#disqus_shortname:   genuineprep
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -37,7 +37,7 @@ disqus_shortname:   genuineprep
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:              GenuinePrep@outlook.com
+#email:              GenuinePrep@outlook.com
 #twitter:            username
 #facebook:           username
 #github-url:         username

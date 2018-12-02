@@ -15,8 +15,7 @@ comments: false
 * Discord chat for real-time answers to your test questions
 * Content is curated by 99th percentile test scorers
 
-
-### This site was created and is updated by Ahmed, a high school student who scored a 35 on the ACT and a 1590 on the SAT.
+### This site was created and is updated by Ahmed, a high school student who scored a 35 on the ACT and a 1590 on the SAT. He was stuck with crappy internet for a couple of weeks so he made this instead of playing video games.
 
 <figure class="half">
     <a href="https://github.com/36ACT/MyPicture/blob/master/ahmedscore.jpg?raw=true"><img src="https://github.com/36ACT/MyPicture/blob/master/ahmedscore.jpg?raw=true"></a>

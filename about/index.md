@@ -15,10 +15,8 @@ comments: false
 * Discord chat for real-time answers to your test questions
 * Content is curated by 99th percentile test scorers
 
-## Who We Are
 
-_Ahmed_
-Ahmed is a high school senior who scored a 35 on the ACT and a 1590 on the SAT.
+# This site was created and is updated by Ahmed, a high school student who scored a 35 on the ACT and a 1590 on the SAT.
 
 <figure class="half">
     <a href="https://github.com/36ACT/MyPicture/blob/master/ahmedscore.jpg?raw=true"><img src="https://github.com/36ACT/MyPicture/blob/master/ahmedscore.jpg?raw=true"></a>

@@ -19,6 +19,6 @@ comments: false
 
 <figure class="half">
     <a href="https://github.com/36ACT/MyPicture/blob/master/ahmedscore.jpg?raw=true"><img src="https://github.com/36ACT/MyPicture/blob/master/ahmedscore.jpg?raw=true"></a>
-    <a href="https://github.com/36ACT/MyPicture/blob/master/AhmedSAT.png?raw=true"><img src="https://github.com/36ACT/MyPicture/blob/master/AhmedSAT.png?raw=true"></a>
+    <a href="https://github.com/36ACT/MyPicture/blob/master/SATScoreUpdated.png?raw=true"><img src="https://github.com/36ACT/MyPicture/blob/master/ACTScoreUpdated.jpg?raw=true"></a>
     <figcaption>Screenshots of Ahmed's scores</figcaption>
 </figure>

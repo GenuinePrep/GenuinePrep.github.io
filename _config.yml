@@ -1,7 +1,7 @@
 # Site
-title:              Genuine Prep
-bio:                'Free SAT and ACT prep from high-scoring students.'
-description:        "Free SAT and ACT prep from high-scoring students."
+title:              
+bio:                
+description:        
 reading_time:       true
 words_per_minute:   200
 logo:               'logicalprep.github.io/assets/img/logo.png'
@@ -37,7 +37,7 @@ sass:
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:              GenuinePrep@outlook.com
+#email:              
 #twitter:            username
 #facebook:           username
 #github-url:         username

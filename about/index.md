@@ -11,7 +11,7 @@ comments: false
 ## Why Us?
 
 ### Expert Tutors
-Ahmed knows all the ins and outs of the SAT Math tests and has the perfect scores to prove it (800 SAT Math, 800 SAT Math 2). He has worked as a tutor for Washtenaw Community College for two years and is majoring in mathematics. He develops Logical Prep's curriculum with help from Matthew, who also has excellent scores (790 SAT Math, 800 SAT Math 2) and is majoring in mathematics. 
+Ahmed knows all the ins and outs of the SAT Math tests and has the perfect scores to prove it (800 SAT Math, 800 SAT Math 2). He has two years of experience in tutoring and is majoring in mathematics. He develops Logical Prep's curriculum with help from Matthew, who also has excellent scores (790 SAT Math, 800 SAT Math 2) and is majoring in mathematics. 
 
 ### Individually Tailored Lessons
 Instead of using a cookie-cutter curriculum that wastes your time and money, we design our lessons to meet your personal needs.

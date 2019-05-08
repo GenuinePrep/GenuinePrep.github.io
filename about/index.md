@@ -6,7 +6,7 @@ date: 2018-05-01
 comments: false
 ---
     
-<!--<center>Logical Prep is a small test prep service based in Ann Arbor. We specialize in designing private SAT Math lessons that are usually taught by our main tutor, Ahmed. </center>-->
+<center>Logical Prep is a small test prep service based in Ann Arbor. We specialize in designing private SAT Math lessons that are usually taught by our main tutor, Ahmed. </center>
 
 ## Why Us?
 

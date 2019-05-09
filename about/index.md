@@ -16,11 +16,5 @@ Aaron knows all the ins and outs of the SAT Math tests and has the perfect score
 ### Individually Tailored Lessons
 Instead of using a cookie-cutter curriculum that wastes your time and money, we design our lessons to meet your personal needs.
 
-### Affordable Pricing
-Our standard rate is $25 per hour.
-
 ### Flexible Hours
 We work around your schedule to set up sessions at the most convenient times possible.
-
-### Satisfaction Guaranteed
-Our first lesson is completely free.

@@ -6,15 +6,24 @@ date: 2018-05-01
 comments: false
 ---
     
-<center>Logical is a small test prep service based in Ann Arbor. We specialize in designing private SAT Math lessons that are taught by our main tutor, Aaron. </center>
+Hi, I'm Ahmed. Logical is my private tutoring service for SAT Math.
 
-## What We Offer
+### Who Am I?
+* I have a perfect score of 800 on the SAT Math section.
+* I currently hold an Associate's Degree in Mathematics. 
+* I've tutored at Washtenaw Community College for the past two years.
 
-### Expert Tutors
-Aaron knows all the ins and outs of the SAT Math tests and has the perfect scores to prove it (800 SAT Math, 800 SAT Math 2). He has two years of experience in tutoring and is majoring in mathematics. He develops Logical Prep's curriculum with help from Matthew, who also has excellent scores (790 SAT Math, 800 SAT Math 2) and is majoring in mathematics. 
+### Why Me?
 
-### Individually Tailored Lessons
-Instead of using a cookie-cutter curriculum that wastes your time and money, we design our lessons to meet your personal needs.
+* Expertise: I am passionate about mathematics and can help students *understand* concepts rather than simply having them memorize formulas. Additionally, I know the test strategies that are necessary to get a great score. Lastly, I have two years of experience in tutoring and know how to work with students of various academic backgrounds.
 
-### Flexible Hours
-We work around your schedule to set up sessions at the most convenient times possible.
+* Customized Lessons: I understand that every person has unique strengths and weaknesses and create lessons with that in mind. Before tutoring a student, I look over a test he or she has taken in the past so that I can design a lesson that fits his or her needs.
+
+* Flexible Hours: I work around students' schedules to set up sessions at the most convenient times possible.
+
+* Satisfaction Guaranteed: My first lesson is free, so there's no risk in trying out Logical.
+
+### Additional Information
+* Standard rate is $25 per hour
+* Sessions are held in a public space like a library
+* You can contact me at logicalprep@outlook.com

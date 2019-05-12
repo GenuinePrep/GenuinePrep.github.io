@@ -24,6 +24,5 @@ Hi, I'm Ahmed. Logical is my private tutoring service for SAT Math.
 * **Satisfaction Guaranteed**: My first lesson is free, so there's no risk in trying out Logical.
 
 ### Additional Information
-* Standard rate is $25 per hour
 * Sessions are held in a public space like a library
 * You can contact me at logicalprep@outlook.com
